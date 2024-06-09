@@ -1,0 +1,35 @@
+header {
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-size: 45px;
+    font-weight: bold;
+    background-color: lightblue;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    block-size: 200px;
+    background-color: lightgrey;
+}
+section {
+    display: flex;
+    align-content: flex-end;
+    justify-content: space-between;
+}
+
+#b1 {
+    background-color: azure;
+} 
+#b2 {
+    background-color: aquamarine;
+}
+#b3 {
+    background-color: bisque;
+}
+
+#b1,
+#b2,
+#b3 {
+    ;
+}
